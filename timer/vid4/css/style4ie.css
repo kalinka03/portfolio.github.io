@@ -1,0 +1,12 @@
+#countbox-days-text,#countbox-hours-text,#countbox-mins-text,#countbox-secs-text
+{
+	position:relative;
+	width:102px;
+	font-size:10px;
+}
+#countbox-days1 span, #countbox-days2 span, #countbox-hours1 span, #countbox-hours2 span, #countbox-mins1 span, #countbox-mins2 span, #countbox-secs1 span, #countbox-secs2 span {
+line-height:82px !important;
+font-size:10px !important;
+margin-left:-9px;
+margin-top:0px;
+}
