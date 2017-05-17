@@ -127,7 +127,7 @@ color: red;
 .form-name {
   border-radius: 5px;
     height: 37px;
-    padding: 10px 11px;
+    padding: 10px -3px;
     color: #000;
     font-style: italic;
     font-size: 18px;
